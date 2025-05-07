@@ -1,0 +1,6 @@
+c= input('temperatura em C:')
+cval= float(c)
+f= (cval*1.8+32)
+#fval=str(f)
+#print("A temperatura em F é " + fval)
+print("A temperatura em F é " + str(f) + " F")
